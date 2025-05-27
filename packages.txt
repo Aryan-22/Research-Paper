@@ -1,4 +1,6 @@
 # packages.txt
+freeglut3-dev
+libgtk2.0-dev
 libgl1-mesa-glx
 libxrender1
 libsm6
