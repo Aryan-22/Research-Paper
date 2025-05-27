@@ -4,6 +4,5 @@ opencv-python
 Pillow
 ultralytics
 numpy
-detectron2
 torchvision
 torchaudio
