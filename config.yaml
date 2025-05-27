@@ -1,0 +1,7 @@
+
+train:  /content/reduced_dataset2/images/train 
+val: /content/reduced_dataset2/images/val 
+
+nc: 5  
+
+names: ['car', 'truck', 'pedestrian', 'bicyclist', 'light']  

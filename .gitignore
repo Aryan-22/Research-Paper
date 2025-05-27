@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+.venv/ # Sometimes venvs are named .venv
+
+# PyTorch/TensorFlow checkpoints or logs
+runs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Streamlit cached files
+.streamlit/
